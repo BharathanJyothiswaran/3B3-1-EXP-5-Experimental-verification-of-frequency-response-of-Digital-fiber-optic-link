@@ -76,18 +76,17 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/44cd87ac-c539-45b7-9146-81831aff8c25" />
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b209e5de-c80c-4b84-97a4-6047c51677e1" />
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The transmission and reproduction of digital signals through 660nm and 950nm files optic digital links were sucessfully studied are verified.
